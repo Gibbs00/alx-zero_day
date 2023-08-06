@@ -1,1 +1,1 @@
-My second README
+Nimi is a software engineer i emulate
